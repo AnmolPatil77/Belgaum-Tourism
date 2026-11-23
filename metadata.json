@@ -1,0 +1,6 @@
+{
+  "name": "Discover Belagavi — Land of Waterfalls, Forts & Timeless Culture",
+  "description": "An editorial tourism showcase and trip planner for Belagavi (Belgaum), Karnataka, featuring Western Ghats waterfalls, 12th-century Ratta dynasty forts, regional cuisine, traditional crafts, curated photo archive, and itinerary management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

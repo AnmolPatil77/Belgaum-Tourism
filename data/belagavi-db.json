@@ -1,0 +1,376 @@
+{
+  "heroImageUrl": "/src/assets/images/hero_belagavi_gokak_1795449886171.jpg",
+  "destinations": [
+    {
+      "id": "dest-gokak-falls",
+      "name": "Gokak Falls",
+      "category": "Waterfalls & Nature",
+      "tags": [
+        "Waterfalls & Nature"
+      ],
+      "distanceFromCity": "65 km NE of Belagavi",
+      "bestSeason": "July – November",
+      "highlights": "170 ft Ghataprabha plunge · Historic 201 m hanging bridge",
+      "description": "Known as the \"Niagara of Karnataka,\" Gokak Falls cascades 170 ft over stratified red sandstone cliffs on the Ghataprabha River, spanned by a century-old suspension footbridge.",
+      "imageUrl": "/src/assets/images/dest_gokak_falls_1795449775286.jpg",
+      "imageAlt": "Gokak Falls cascading over sandstone cliffs beneath a historic suspension bridge"
+    },
+    {
+      "id": "dest-belagavi-fort",
+      "name": "Belagavi Fort & Kamal Basti",
+      "category": "Forts & Heritage",
+      "tags": [
+        "Forts & Heritage",
+        "Spiritual & Landmarks"
+      ],
+      "distanceFromCity": "2 km from City Center",
+      "bestSeason": "October – March",
+      "highlights": "12th-century Ratta fortification · Carved lotus stone dome",
+      "description": "Built in 1204 CE by the Ratta dynasty, this oval stone citadel houses the exquisite Kamal Basadi Jain temple featuring a multi-tiered carved black basalt lotus dome and lathe-turned pillars.",
+      "imageUrl": "/src/assets/images/dest_belagavi_fort_1795449775671.jpg",
+      "imageAlt": "Ancient stone ramparts of Belagavi Fort and the Kamal Basadi Chalukyan Jain temple"
+    },
+    {
+      "id": "dest-rajhansgad",
+      "name": "Rajhansgad (Yellur Fort)",
+      "category": "Forts & Heritage",
+      "tags": [
+        "Forts & Heritage",
+        "Spiritual & Landmarks"
+      ],
+      "distanceFromCity": "16 km South of Belagavi",
+      "bestSeason": "August – February",
+      "highlights": "360° Sahyadri valley views · Hilltop Siddheshwar temple",
+      "description": "Perched atop an emerald ridge near Yellur village, Rajhansgad offers sweeping panoramic views of terraced farmland, ancient stone ramparts, a freshwater well, and a serene hilltop Shiva shrine.",
+      "imageUrl": "/src/assets/images/dest_rajhansgad_fort_1795449775166.jpg",
+      "imageAlt": "Hilltop stone fort ramparts at Rajhansgad overlooking misty green Belagavi valleys"
+    },
+    {
+      "id": "dest-kittur-fort",
+      "name": "Kittur Rani Channamma Fort & Palace",
+      "category": "Forts & Heritage",
+      "tags": [
+        "Forts & Heritage"
+      ],
+      "distanceFromCity": "48 km SE of Belagavi",
+      "bestSeason": "October – March",
+      "highlights": "1824 anti-colonial resistance site · Archaeological museum",
+      "description": "Historic seat of Queen Rani Channamma, revered symbol of India’s earliest armed resistance against colonial rule, featuring arched stone gateways, palace foundations, and a state museum.",
+      "imageUrl": "/src/assets/images/dest_kittur_fort_1795449942376.jpg",
+      "imageAlt": "Stone arched gateway and landscaped ruins of Kittur Rani Channamma Fort"
+    },
+    {
+      "id": "dest-godchinamalaki",
+      "name": "Godchinamalaki Falls",
+      "category": "Waterfalls & Nature",
+      "tags": [
+        "Waterfalls & Nature"
+      ],
+      "distanceFromCity": "76 km NE of Belagavi",
+      "bestSeason": "July – December",
+      "highlights": "Two-tier Markandeya cascade · Rugged forest gorge trek",
+      "description": "Tucked inside a deep green canyon along the Markandeya River near Gokak, this picturesque two-tier waterfall rewards visitors with mossy boulder trails and quiet forest views.",
+      "imageUrl": "/src/assets/images/dest_godchinamalaki_falls_1795449941835.jpg",
+      "imageAlt": "Two-tier Godchinamalaki waterfall surrounded by lush green valley trees"
+    },
+    {
+      "id": "dest-bhimgad",
+      "name": "Bhimgad Wildlife Sanctuary",
+      "category": "Waterfalls & Nature",
+      "tags": [
+        "Waterfalls & Nature"
+      ],
+      "distanceFromCity": "52 km SW of Belagavi",
+      "bestSeason": "October – May",
+      "highlights": "Western Ghats biodiversity · Barapede limestone caves",
+      "description": "Located in the lush Khanapur Western Ghats, Bhimgad protects dense tropical evergreen forests, Mahadayi river headwaters, misty ridge trails, and rare limestone caves.",
+      "imageUrl": "/src/assets/images/dest_bhimgad_sanctuary_1795449774298.jpg",
+      "imageAlt": "Misty tropical rainforest trail inside Bhimgad Wildlife Sanctuary, Khanapur"
+    }
+  ],
+  "food": [
+    {
+      "id": "food-kunda",
+      "tab": "food",
+      "title": "Belagavi Kunda",
+      "metaPrimary": "Veg",
+      "metaSecondary": "Heritage Sweet",
+      "origin": "Belagavi Old City (Camp & Khade Bazar)",
+      "description": "Belagavi’s signature caramelized milk delicacy slow-simmered for hours in heavy iron kadhais with khoya, caramelized sugar, and fragrant green cardamom.",
+      "imageUrl": "/src/assets/images/food_belagavi_kunda_1795449774196.jpg",
+      "imageAlt": "Caramelized Belagavi Kunda milk fudge garnished with pistachios in a brass bowl"
+    },
+    {
+      "id": "food-karadant",
+      "tab": "food",
+      "title": "Gokak Karadant",
+      "metaPrimary": "Veg",
+      "metaSecondary": "Traditional Sweet",
+      "origin": "Gokak Town",
+      "description": "Wholesome heritage fudge crafted from edible gum (ant), organic jaggery, roasted almonds, cashews, pistachios, and dry coconut—prized for warmth and stamina.",
+      "imageUrl": "/src/assets/images/food_gokak_karadant_1795449774299.jpg",
+      "imageAlt": "Nut-rich Gokak Karadant squares arranged on a traditional brass platter"
+    },
+    {
+      "id": "food-jolada-rotti",
+      "tab": "food",
+      "title": "Jolada Roti & Enne Gai",
+      "metaPrimary": "Veg",
+      "metaSecondary": "Authentic Meal",
+      "origin": "North Karnataka Khanavali Kitchens",
+      "description": "Hand-patted crisp sorghum flatbreads paired with spiced sesame-peanut stuffed brinjal curry (Enne Gai), roasted groundnut chutney pudi, fresh curd, and raw onion.",
+      "imageUrl": "/src/assets/images/food_jolada_rotti_1795449774642.jpg",
+      "imageAlt": "Traditional North Karnataka Jolada Rotti thali with Enne Gai brinjal curry"
+    },
+    {
+      "id": "food-biryani-mandige",
+      "tab": "food",
+      "title": "Belagavi Biryani & Mandige",
+      "metaPrimary": "Non-Veg / Veg",
+      "metaSecondary": "Local Specialties",
+      "origin": "Belagavi Cantonment & Shahapur",
+      "description": "Fragrant regional dum biryani infused with Malnad spices served alongside paper-thin, melt-in-the-mouth sweet Mandige flatbread dusted with sugar and nutmeg.",
+      "imageUrl": "/src/assets/images/food_biryani_mandige_1795449775559.jpg",
+      "imageAlt": "Aromatic Belagavi spiced biryani in a copper handi alongside sweet folded Mandige"
+    }
+  ],
+  "art": [
+    {
+      "id": "art-gokak-toys",
+      "tab": "art",
+      "title": "Gokak Wooden Toys",
+      "metaPrimary": "Craft",
+      "metaSecondary": "GI-Recognized Woodwork",
+      "origin": "Gokak Artisan Quarter",
+      "description": "Turned from lightweight local wood and finished with glossy natural vegetable lacquer, these vibrant handcrafted fruits, animals, and folk figurines date back two centuries.",
+      "imageUrl": "/src/assets/images/art_gokak_toys_1795449774457.jpg",
+      "imageAlt": "Colorful lacquered Gokak wooden toys and fruit replicas on an artisan bench"
+    },
+    {
+      "id": "art-khanapur-pottery",
+      "tab": "art",
+      "title": "Khanapur Terracotta & Pottery",
+      "metaPrimary": "Craft",
+      "metaSecondary": "Earthenware Cluster",
+      "origin": "Khanapur & Nandgad",
+      "description": "Hand-thrown water matkas, slow-cooking handis, and architectural terracotta tiles shaped from mineral-rich Malaprabha clay and fired in traditional open kilns.",
+      "imageUrl": "/src/assets/images/art_khanapur_pottery_1795449774895.jpg",
+      "imageAlt": "Rows of hand-thrown red terracotta clay pots drying in a Khanapur courtyard"
+    },
+    {
+      "id": "art-shahapur-handloom",
+      "tab": "art",
+      "title": "Shahapur Handloom & Ilkal Sarees",
+      "metaPrimary": "Textile",
+      "metaSecondary": "Heritage Weaving",
+      "origin": "Shahapur & Vadgaon Lanes",
+      "description": "Generations of weavers in Belagavi’s Shahapur quarter craft breathable cotton-silk sarees featuring crisp geometric checks, temple borders, and Kasuti-inspired motifs.",
+      "imageUrl": "/src/assets/images/art_shahapur_handloom_1795449942348.jpg",
+      "imageAlt": "Traditional handloom Ilkal and Shahapur sarees with woven borders on a wooden loom"
+    },
+    {
+      "id": "art-stone-sculpture",
+      "tab": "art",
+      "title": "Chalukyan & Ratta Stone Sculpture",
+      "metaPrimary": "Architecture",
+      "metaSecondary": "Basalt Reliefs",
+      "origin": "Belagavi Fort & Halasi",
+      "description": "Intricate multi-petaled lotus domes, mythological friezes, and mirror-polished lathe-turned basalt columns showcasing 12th-century Kalyana Chalukya craftsmanship.",
+      "imageUrl": "/src/assets/images/art_stone_sculpture_1795449775439.jpg",
+      "imageAlt": "Carved black basalt lotus ceiling and stone pillars inside Kamal Basti Belagavi"
+    }
+  ],
+  "culture": [
+    {
+      "id": "cult-kittur-utsava",
+      "tab": "culture",
+      "title": "Kittur Utsava",
+      "metaPrimary": "October",
+      "metaSecondary": "State Heritage Festival",
+      "origin": "Kittur Fort Grounds",
+      "description": "An annual three-day celebration honoring Rani Channamma’s 1824 victory with illuminated fort processions, traditional wrestling, Janapada folk theatre, and equestrian parades.",
+      "imageUrl": "/src/assets/images/cult_kittur_utsava_1795449776360.jpg",
+      "imageAlt": "Illuminated Kittur Utsava cultural procession at the stone fort gate at dusk"
+    },
+    {
+      "id": "cult-kite-festival",
+      "tab": "culture",
+      "title": "Belagavi Kite Festival",
+      "metaPrimary": "January",
+      "metaSecondary": "International Sky Festival",
+      "origin": "Angadi Grounds, Belagavi",
+      "description": "Held every Makar Sankranti season, Belagavi’s breezy winter skies fill with hundreds of artistic kites flown by teams across India alongside folk music and regional food stalls.",
+      "imageUrl": "/src/assets/images/cult_kite_festival_1795449774915.jpg",
+      "imageAlt": "Colorful kites soaring over rolling green meadows during the Belagavi Kite Festival"
+    },
+    {
+      "id": "cult-ganesh-navaratri",
+      "tab": "culture",
+      "title": "Ganesh Chaturthi & Navaratri",
+      "metaPrimary": "Aug – Oct",
+      "metaSecondary": "Community Traditions",
+      "origin": "Belagavi City & Shahapur",
+      "description": "Belagavi’s bilingual heritage shines through grand sarvajanik mandaps, glowing brass deepam lamps, classical bhajan recitals, and artistic tableaux uniting Kannada and Marathi customs.",
+      "imageUrl": "/src/assets/images/cult_ganesh_navaratri_1795449776079.jpg",
+      "imageAlt": "Warmly lit brass lamps and marigold garlands during Ganesh Chaturthi in Belagavi"
+    },
+    {
+      "id": "cult-dollu-kunitha",
+      "tab": "culture",
+      "title": "Dollu Kunitha & Folk Performances",
+      "metaPrimary": "Year-Round",
+      "metaSecondary": "Sacred Drum Dance",
+      "origin": "District Jatras & Temple Courtyards",
+      "description": "Accompanied by thunderous cylindrical drums and rhythmic footwork, Dollu Kunitha troupes bring vibrant choreography and oral ballads to regional temple fairs and cultural nights.",
+      "imageUrl": "/src/assets/images/cult_dollu_kunitha_1795449775741.jpg",
+      "imageAlt": "Traditional Dollu Kunitha folk drummers performing in crimson attire at golden hour"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "title": "Monsoon Plunge at Gokak Falls",
+      "category": "Nature & Waterfalls",
+      "caption": "Ghataprabha River thundering 170 ft into the red sandstone gorge beneath the hanging footbridge.",
+      "imageUrl": "/src/assets/images/dest_gokak_falls_1795449775286.jpg",
+      "createdAt": "2026-08-14T10:00:00.000Z"
+    },
+    {
+      "id": "gal-2",
+      "title": "Kamal Basadi Stone Sanctuary",
+      "category": "Forts & Heritage",
+      "caption": "12th-century Ratta dynasty Jain shrine framed by the massive masonry bastions of Belagavi Fort.",
+      "imageUrl": "/src/assets/images/dest_belagavi_fort_1795449775671.jpg",
+      "createdAt": "2026-09-02T14:20:00.000Z"
+    },
+    {
+      "id": "gal-3",
+      "title": "Caramelized Belagavi Kunda",
+      "category": "Food & Sweets",
+      "caption": "Rich slow-cooked khoya fudge garnished with cardamom and pistachio slivers.",
+      "imageUrl": "/src/assets/images/food_belagavi_kunda_1795449774196.jpg",
+      "createdAt": "2026-09-18T11:30:00.000Z"
+    },
+    {
+      "id": "gal-4",
+      "title": "Golden Hour at Rajhansgad",
+      "category": "Forts & Heritage",
+      "caption": "Elevated ramparts of Yellur Fort overlooking emerald Sahyadri valleys in morning mist.",
+      "imageUrl": "/src/assets/images/dest_rajhansgad_fort_1795449775166.jpg",
+      "createdAt": "2026-10-05T07:15:00.000Z"
+    },
+    {
+      "id": "gal-5",
+      "title": "Godchinamalaki Forest Cascade",
+      "category": "Nature & Waterfalls",
+      "caption": "Two-tier Markandeya River waterfall tucked inside a quiet boulder-strewn ravine.",
+      "imageUrl": "/src/assets/images/dest_godchinamalaki_falls_1795449941835.jpg",
+      "createdAt": "2026-10-12T09:45:00.000Z"
+    },
+    {
+      "id": "gal-6",
+      "title": "Lacquered Gokak Toy Workshop",
+      "category": "Art & Festivals",
+      "caption": "Hand-turned wooden fruits and folk figurines painted with natural vegetable dyes.",
+      "imageUrl": "/src/assets/images/art_gokak_toys_1795449774457.jpg",
+      "createdAt": "2026-10-20T16:00:00.000Z"
+    },
+    {
+      "id": "gal-7",
+      "title": "Kittur Utsava Royal Procession",
+      "category": "Art & Festivals",
+      "caption": "Illuminated fort walls and cultural troupes celebrating Queen Channamma’s legacy.",
+      "imageUrl": "/src/assets/images/cult_kittur_utsava_1795449776360.jpg",
+      "createdAt": "2026-10-24T18:30:00.000Z"
+    },
+    {
+      "id": "gal-8",
+      "title": "North Karnataka Jolada Rotti Thali",
+      "category": "Food & Sweets",
+      "caption": "Freshly patted sorghum rotis with spicy stuffed brinjal Enne Gai and groundnut chutney.",
+      "imageUrl": "/src/assets/images/food_jolada_rotti_1795449774642.jpg",
+      "createdAt": "2026-11-01T13:10:00.000Z"
+    },
+    {
+      "id": "gal-9",
+      "title": "Shahapur Handloom Weaving",
+      "category": "Art & Festivals",
+      "caption": "Traditional Kasuti-inspired cotton-silk saree borders woven on wooden pit looms.",
+      "imageUrl": "/src/assets/images/art_shahapur_handloom_1795449942348.jpg",
+      "createdAt": "2026-11-04T15:00:00.000Z"
+    },
+    {
+      "id": "gal-10",
+      "title": "Bhimgad Rainforest Canopy",
+      "category": "Nature & Waterfalls",
+      "caption": "Morning light filtering through mossy evergreen trees in Khanapur’s Western Ghats.",
+      "imageUrl": "/src/assets/images/dest_bhimgad_sanctuary_1795449774298.jpg",
+      "createdAt": "2026-11-08T08:15:00.000Z"
+    },
+    {
+      "id": "gal-11",
+      "title": "Kittur Fort Stone Archway",
+      "category": "Forts & Heritage",
+      "caption": "Historic gateway leading into Rani Channamma’s 19th-century palace courtyard.",
+      "imageUrl": "/src/assets/images/dest_kittur_fort_1795449942376.jpg",
+      "createdAt": "2026-11-12T17:10:00.000Z"
+    },
+    {
+      "id": "gal-12",
+      "title": "Carved Lotus Dome of Kamal Basti",
+      "category": "Forts & Heritage",
+      "caption": "Intricate black basalt lotus ceiling and polished pillars inside Belagavi Fort.",
+      "imageUrl": "/src/assets/images/art_stone_sculpture_1795449775439.jpg",
+      "createdAt": "2026-11-16T11:45:00.000Z"
+    }
+  ],
+  "trips": [
+    {
+      "id": "trip-seed-1",
+      "bookingId": "BGM-2026-4108",
+      "fullName": "Meera Kulkarni",
+      "email": "meera.kulkarni@example.in",
+      "phone": "+91 98452 77410",
+      "travelDate": "2026-12-12",
+      "duration": "2 Days / 1 Night",
+      "travelers": 4,
+      "budget": "Standard",
+      "selectedDestinations": [
+        "Gokak Falls",
+        "Godchinamalaki Falls",
+        "Belagavi Fort & Kamal Basti"
+      ],
+      "experiences": [
+        "Local Food Trail",
+        "Nature & Waterfall Trek"
+      ],
+      "notes": "Arriving at Belagavi Railway Station at 7:30 AM. Would love an afternoon stop in Gokak for fresh Karadant and wooden toys.",
+      "status": "Confirmed",
+      "createdAt": "2026-11-19T09:15:00.000Z"
+    },
+    {
+      "id": "trip-seed-2",
+      "bookingId": "BGM-2026-7392",
+      "fullName": "Raghavendra Naik",
+      "email": "raghav.naik@example.com",
+      "phone": "+91 99001 48231",
+      "travelDate": "2026-12-20",
+      "duration": "3 Days / 2 Nights",
+      "travelers": 2,
+      "budget": "Premium",
+      "selectedDestinations": [
+        "Rajhansgad (Yellur Fort)",
+        "Kittur Rani Channamma Fort & Palace",
+        "Bhimgad Wildlife Sanctuary"
+      ],
+      "experiences": [
+        "Heritage & Fort Walk",
+        "Art & Handicraft Shopping",
+        "Local Food Trail"
+      ],
+      "notes": "Interested in Shahapur handloom studio visit and authentic vegetarian Jolada Rotti lunch.",
+      "status": "Pending",
+      "createdAt": "2026-11-21T16:40:00.000Z"
+    }
+  ]
+}
